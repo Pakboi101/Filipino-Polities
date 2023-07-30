@@ -53,8 +53,8 @@
         "requiredTech": "Optics",
 	"uniques": ["Must be next to [Coast]", "[+1 Food] from [Ocean] tiles [in this city]",
 			"[+1 Food] from [Coast] tiles [in this city]", "[+1 Food] from [Fish] tiles [in this city]","Destroyed when the city is captured"],
-    },
-    {
+   },
+   {
         "name": "Sagayan",
         "replaces": "Amphitheater",
 	"uniqueTo": "Maguindanao",
@@ -67,8 +67,8 @@
 	"hurryCostModifier": 25,
 	"uniques": ["All newly-trained [{Military} {Land}] units [in this city] receive the [War Dance] promotion","Destroyed when the city is captured"],
 	"requiredTech": "Drama and Poetry",
-    },
-    {
+   },
+   {
         "name": "Imbakan",
         "replaces": "Granary",
 	"uniqueTo": "Caboloan",
@@ -79,7 +79,20 @@
 	"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
 		"[+1 Food] from [Bananas] tiles [in this city]",
 		"[+1 Food] from [Wheat] tiles [in this city]",
-            "[+1 Faith] per [3] population [in this city]"],
+            "[+1 Culture] per [3] population [in this city]"],
 	"requiredTech": "Pottery"
+   },
+   {
+	"name": "Moog",
+	"replaces": "Granary",
+	"uniqueTo": "Ibalon",
+	"food": 2,
+	"Faith": 1,
+	"maintenance": 0,
+	"hurryCostModifier": 25,
+	"uniques": ["[+1 Food] from [Deer] tiles [in this city]",
+	"[+1 Food] from [Bananas] tiles [in this city]",
+	"[+1 Food] from [Wheat] tiles [in this city]"],
+        "requiredTech": "Pottery"
    }
 ]
