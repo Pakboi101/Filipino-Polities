@@ -4,11 +4,12 @@
         "replaces": "Galleass",
         "unitType": "WaterRanged",
         "uniqueTo": "Luzones",
-        "movement": 4,
+        "movement": 3,
         "strength": 16,
         "rangedStrength": 20,
         "cost": 115,
-        "promotions": ["Coastal Raider I"],
+	"requiredResource": "Iron",
+        "promotions": ["Coastal Raider I","Mobility I"],
         "uniques": ["Can move after attacking","Cannot enter ocean tiles"],
         "requiredTech": "Compass",
         "obsoleteTech": "Navigation",
@@ -26,6 +27,7 @@
         "requiredTech": "Civil Service",
         "obsoleteTech": "Gunpowder",
         "upgradesTo": "Musketman",
+	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
         "promotions": ["[Maharlika] ability"],
         "attackSound": "metalhit"
     },
@@ -58,7 +60,7 @@
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Gunpowder",
         "promotions": ["Blitz"],
-        "attackSound": "metalhit"
+        "attackSound": "nonmetalhit"
     },
     {
         "name": "Balangay",
@@ -66,7 +68,7 @@
         "replaces": "Trireme",
         "uniqueTo": "Butuan",
         "movement": 4,
-        "strength": 10,
+        "strength": 8,
         "cost": 38,
         "requiredTech": "Sailing",
         "upgradesTo": "Caravel",
@@ -117,6 +119,21 @@
 	"requiredResource": "Iron",
 	"promotions": ["Apologetics"],
 	"uniques": ["Can [Remove Foreign religions from your own cities] [1] times","Religious Unit"],
+	"attackSound": "metalhit"
+   },
+   {
+	"name": "Kinalakian",
+	"unitType": "Sword",
+	"replaces": "Pikeman",
+	"uniqueTo": "Caboloan",
+	"movement": 2,
+	"strength": 16,
+	"cost": 90,
+	"obsoleteTech": "Gunpowder",
+        "upgradesTo": "Musketman",
+	"promotions": ["[Kinalakian] ability"],
+	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	"upgradesTo": "Lancer",
 	"attackSound": "metalhit"
    }
 ]
