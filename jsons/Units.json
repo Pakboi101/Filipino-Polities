@@ -51,7 +51,7 @@
         "name": "Kali Warrior",
         "unitType": "Melee",
         "replaces": "Swordsman",
-        "uniqueTo": "Madya-as Confederation",
+        "uniqueTo": "Madya-as",
         "movement": 2,
         "strength": 14,
         "cost": 75,
@@ -59,7 +59,7 @@
         "requiredTech": "Iron Working",
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Gunpowder",
-        "promotions": ["Blitz"],
+        "promotions": ["Kali I"],
         "attackSound": "nonmetalhit"
     },
     {
