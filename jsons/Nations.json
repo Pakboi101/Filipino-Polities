@@ -21,7 +21,7 @@
         "outerColor": [255,255,255],
         "innerColor": [255,0,0],
         "uniqueName": "Bayanihan",
-        "uniques": ["When declaring friendship, both parties gain a [+10]% boost to great person generation","[-25]% tile improvement construction time <within [1] tiles of a [City center]>"],
+        "uniques": ["When declaring friendship, both parties gain a [+10]% boost to great person generation","[-50]% tile improvement construction time <within [1] tiles of a [City center]>"],
         "cities": ["Tundun at Maynilad","Namayan","Bitukang Manok","Sunog-Apog","Maysapan","Tagig","Nabotas","Sampalok","Mandaluyong","Binondo","Pasay","Kainta","Puliran","Kumintang","Paila","Yamagtogon","Pandakan","Tangway","Kandawe","Morong","Tayabas","Malatarlak","Katanghalan","Baybay","Omaghikon","Binwangan","Pakil","Meykatmon","Sawangan"],
         
     },
@@ -129,7 +129,7 @@
         "name": "Butuan",
         "leaderName": "Datu Bwisan",
         "adjective": ["Butuanon"],
-        "startBias": ["Coast"],
+        "startBias": ["River","Coast"],
         "prefferedVictoryType": "Scientific",
          "favoredReligion": "Hinduism",
 
@@ -202,7 +202,7 @@
         "outerColor": [70,130,180],
         "innerColor": [240,230,140],
         "uniqueName": "People of the Lakes",
-        "uniques": ["[+1 Food, +2 Production] [in all cities] <within [3] tiles of a [Lake]>"],
+        "uniques": ["[+1 Culture, +2 Production] [in all cities] <within [3] tiles of a [Lake]>"],
         "cities": ["Bayabao","Masiu","Unayan","Baloi"],
     },
     {
