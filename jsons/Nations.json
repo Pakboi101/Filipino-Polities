@@ -18,8 +18,8 @@
         "hateHello": "You have upsetted the spirits. Begone.",
         "tradeRequest": "I have something that may interest you, foreigner, in exchange for...",
 
-        "outerColor": [255,255,255],
-        "innerColor": [255,0,0],
+        "outerColor": [255,223,200],
+        "innerColor": [185,53,36],
         "uniqueName": "Bayanihan",
         "uniques": ["When declaring friendship, both parties gain a [+10]% boost to great person generation","[-50]% tile improvement construction time <within [1] tiles of a [City center]>"],
         "cities": ["Tundun at Maynilad","Namayan","Bitukang Manok","Sunog-Apog","Maysapan","Tagig","Nabotas","Sampalok","Mandaluyong","Binondo","Pasay","Kainta","Puliran","Kumintang","Paila","Yamagtogon","Pandakan","Tangway","Kandawe","Morong","Tayabas","Malatarlak","Katanghalan","Baybay","Omaghikon","Binwangan","Pakil","Meykatmon","Sawangan"],
@@ -46,9 +46,9 @@
         "tradeRequest": "We believe that a trade agreement would be mutually beneficial for Caboloan and your civilization. Would you be interested in discussing further?",
 
         "outerColor": [65,105,225],
-        "innerColor": [95,158,160],
+        "innerColor": [51,255,153],
         "uniqueName": "Pangasinan Trade Network",
-        "uniques": ["[+1 Culture, +1 Food, +1 Faith] [in all coastal cities] <during We Love The King Day>", "[+20]% Production when constructing [Water] units [in all cities]"],
+        "uniques": ["[+1 Culture, +1 Science] [in all coastal cities]", "[+20]% Production when constructing [Water] units [in all cities]"],
         "cities": ["Tawalisi","Binalatongan","Lingayen","Dagupan","Sual"],
     },
     {
@@ -97,7 +97,7 @@
 
         "outerColor": [205,92,92],
         "innerColor": [0,0,128],
-        "uniqueName": "Legend of Maragtas",
+        "uniqueName": "Code of Maragtas",
         "uniques": ["[+1 Production, +1 Food] per [3] population [in all cities]","[+3 Culture] <in cities with a [Courthouse]>"],
         "cities": ["Malandog","Aklan","Irong-rong","Hamtik","Sinugbohan","Halaran","Majanos","Guimbal","Katigbawan","Ogtong","Araut","Sumandig","Alakaygan","Bobog","Bontoc","Sumandig","Dalayawan","Kaputatan","Maayon","Kaguyuman","Panit-an","Dao","Sikma","Mapanag","Tipik","Salapi","Bakan","Bueagaw"],
     },
@@ -147,7 +147,7 @@
         "outerColor": [220,20,60],
         "innerColor": [255,215,0],
         "uniqueName": "All that Glitters",
-        "uniques": ["[+10]% [Gold] from Trade Routes <while the empire is happy>","Double quantity of [Gold Ore] produced"],
+        "uniques": ["Gain [50]-[100] [Gold] <during We Love The King Day>","Double quantity of [Gold Ore] produced"],
         "cities": ["Butuan","Kabadbaran","Tubay","Hingoong","Tandag","Limasawa","Surigao","Agusan"],
     },
     {
