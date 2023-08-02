@@ -9,7 +9,7 @@
         "rangedStrength": 20,
         "cost": 115,
 	"requiredResource": "Iron",
-        "promotions": ["Coastal Raider I","Mobility I"],
+        "promotions": ["Coastal Raider I","Mobility"],
         "uniques": ["Can move after attacking","Cannot enter ocean tiles"],
         "requiredTech": "Compass",
         "obsoleteTech": "Navigation",
@@ -22,7 +22,7 @@
         "replaces": "Pikeman",
         "uniqueTo": "Luzones",
         "movement": 2,
-        "strength": 17,
+        "strength": 18,
         "cost": 90,
         "requiredTech": "Civil Service",
         "obsoleteTech": "Gunpowder",
@@ -59,7 +59,7 @@
         "requiredTech": "Iron Working",
         "upgradesTo": "Longswordsman",
         "obsoleteTech": "Gunpowder",
-        "promotions": ["Kali I"],
+        "promotions": ["Kali"],
         "attackSound": "nonmetalhit"
     },
     {
@@ -77,7 +77,7 @@
         "attackSound": "nonmetalhit"
     },
     {
-	"name": "Matarabat",
+	"name": "Maratabat",
 	"unitType": "Sword",
         "replaces": "Spearman",
         "uniqueTo": "Lanao",
@@ -88,7 +88,7 @@
 	"obsoleteTech": "Metal Casting",
 	"upgradesTo": "Pikeman",
 	"uniques": ["[+50]% Strength <vs [Mounted] units>"],
-        "promotions": ["[Matarabat] ability"],
+        "promotions": ["Maratabat"],
 	"attackSound": "metalhit"
     },
     {
