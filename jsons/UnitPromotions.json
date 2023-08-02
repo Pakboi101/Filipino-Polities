@@ -1,0 +1,29 @@
+[
+	{
+		"name": "[Maharlika] ability",
+		"uniques": ["[+25] Strength <in [Friendly Land] tiles>",
+      "Eliminates combat penalty for attacking over a river"]
+	},
+	{
+		"name": "Maratabat",
+		"uniques": ["Damage is ignored when determining unit Strength <in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "[Balangay] ability",
+		"uniques": ["[+1] Movement","[+1] Sight"]
+	},
+	{
+		"name": "[Kinalakian] ability",
+		"uniques": ["Gain [1] [Happiness] <upon defeating a [{Military} {Land}] unit> <in [Friendly Land] tiles>"]
+	},
+	{
+		"name": "Kali",
+		"uniques": ["[+10] Strength <vs [{Melee} {Land}] units>",
+      "[1] additional attacks per turn"]
+  },
+	{
+		"name": "Apologetics",
+		"uniques": ["Prevents spreading of religion to the city it is next to",
+			"Religious Unit"]
+	}
+]
